@@ -1,4 +1,4 @@
-# Splun Audit Github Action
+# Splunk Audit Github Action
 
 
 ## Overview
